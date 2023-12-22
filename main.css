@@ -9,7 +9,7 @@ body{margin: 0;}
 }
 #elo{
   color: white;
-  font-family: play;
+  font-family: poppins;
   position: absolute;
   top: 7px;
   left: 38px;
@@ -21,7 +21,7 @@ body{margin: 0;}
   border-radius: 16px;
 }
 #tutor{
-  font-family: play;
+  font-family: poppins;
   text-align: center;
 }
 .yellow{
